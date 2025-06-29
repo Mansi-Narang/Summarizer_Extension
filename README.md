@@ -31,6 +31,13 @@ A lightweight, easy-to-use Chrome extension that summarizes web page content in 
 
 ---
 
+## 📷 ScreenShots
+![Ex1](./screenshots/EX1.png)
+![Ex2](./screenshots/EX2.png)
+![Ex3](./screenshots/EX3.png)
+
+---
+
 ## 🧭 Getting Started
 
 1. **Clone the repo**  
